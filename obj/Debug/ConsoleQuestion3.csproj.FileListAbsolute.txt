@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\bin\Debug\ConsoleQuestion3.exe.config
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\bin\Debug\ConsoleQuestion3.exe
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\bin\Debug\ConsoleQuestion3.pdb
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\obj\Debug\ConsoleQuestion3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\obj\Debug\ConsoleQuestion3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\obj\Debug\ConsoleQuestion3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\obj\Debug\ConsoleQuestion3.exe
+C:\Users\Lenovo\source\repos\ConsoleQuestion3\ConsoleQuestion3\obj\Debug\ConsoleQuestion3.pdb
